@@ -1,7 +1,7 @@
 
-## Foca! Mah! - Pomodoro Timer
+## Foca! Mah - Pomodoro Timer
 
-Foca! Mah! é um aplicativo de timer Pomodoro criado com o Jetpack Compose. Este projeto foi desenvolvido com o objetivo de estudar e entender o desenvolvimento de aplicativos Android utilizando este moderno framework.
+Foca! Mah é um aplicativo de timer Pomodoro criado com o Jetpack Compose. Este projeto foi desenvolvido com o objetivo de estudar e entender o desenvolvimento de aplicativos Android utilizando este moderno framework.
 
 ### Funcionalidades
 
