@@ -19,7 +19,3 @@ Foca! Mah! é um aplicativo de timer Pomodoro criado com o Jetpack Compose. Este
 - Aprender e aplicar conceitos do Jetpack Compose.
 - Explorar as capacidades do Kotlin no desenvolvimento Android.
 - Criar um aplicativo funcional e divertido que auxilie na gestão do tempo.
-
-### Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e novas funcionalidades.
